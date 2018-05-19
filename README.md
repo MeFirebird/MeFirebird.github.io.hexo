@@ -1,8 +1,7 @@
-### 方法论： https://mefirebird.github.io/
+ 方法论： https://mefirebird.github.io/
+ ----
 
-
-项目意义：
----
+#### 项目意义：
 * 收集优秀学习资源
 * 形成适合自己的方法论  不断的迭代优化---》日趋完美
 * 时不时的提醒自
